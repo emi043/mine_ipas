@@ -1,28 +1,35 @@
 #
 ```
-1. John is analyzing strange behavior on computers in his network. He believes there is malware
-on the machines. The symptoms include strange behavior that persists, even if he
-boots the machine to a Linux Live CD. What is the most likely cause?
-A. Ransomware
-B. Boot sector virus
+1. John is analyzing strange behavior on computers in his network. 
+He believes there is malware(惡意程式) on the machines. 
+The symptoms(徵狀) include strange behavior that persists, even if he boots the machine to a Linux Live CD. 
+What is the most likely cause?
+A. Ransomware(勒索軟體)
+B. Boot(啟動) sector(區域) virus
 C. Rootkit
-D. Key logger
+D. Key logger(鍵盤側錄)
 ```
+```
+the most likely cause==最有可能的原因
+答案:B
 ```
 
 ```
+2. Ahmed is a sales manager with a major insurance company. 
+He has received an email that is encouraging him to click on a link and fill out a survey. He is suspicious(懷疑) of the email, but it does mention a major insurance association,and that makes him think it might be legitimate(合法). 
 
+Which of the following best describes this attack?
+A. Phishing  網路釣魚
+B. Social engineering 社交工程
+C. Spear phishing  魚叉式網路釣魚 (Spear Phishing ):特定對象
+D. Trojan horse (特洛伊)木馬
 ```
-
-2. Ahmed is a sales manager with a major insurance company. He has received an email that
-is encouraging him to click on a link and fill out a survey. He is suspicious of the email,
-but it does mention a major insurance association, and that makes him think it might be
-legitimate. Which of the following best describes this attack?
-A. Phishing
-B. Social engineering
-C. Spear phishing
-D. Trojan horse
-
+```
+Which of the following ==下列何者
+is suspicious(懷疑) of
+答案:C 
+```
+```
 3. You are a security administrator for a medium-sized bank. You have discovered a piece of
 software on your bank’s database server that is not supposed to be there. It appears that
 the software will begin deleting database files if a specific employee is terminated. What
@@ -41,12 +48,19 @@ C. SQL injection
 D. ARP poisoning
 
 5. Juanita is a network administrator for a small accounting firm. The users on her network
-are complaining of slow connectivity. When she examines the firewall logs, she observes a
-large number of half-open connections. What best describes this attack?
+are complaining抱怨 of slow connectivity很慢的連線. When she examines the firewall logs日誌, she observes a
+large number of half-open connections半開放. 
+What best describes this attack?
 A. DDoS
 B. SYN flood
 C. Buffer overflow
 D. ARP poisoning
+```
+```
+a large number of half-open connections ==半開放連線
+答案:B
+```
+```
 
 6. Frank is deeply concerned about attacks to his company’s e-commerce server. He is particularly
 worried about cross-site scripting and SQL injection. Which of the following
