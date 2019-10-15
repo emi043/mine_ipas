@@ -38,6 +38,11 @@ A. Worm
 B. Logic bomb
 C. Trojan horse
 D. Rootkit
+```
+```
+
+```
+```
 
 4. You are responsible for incident response at Acme bank. The Acme bank website has been
 attacked. The attacker used the login screen, but rather than enter login credentials, he or
@@ -46,10 +51,15 @@ A. Cross-site scripting
 B. Cross-site request forgery
 C. SQL injection
 D. ARP poisoning
+```
+```
+
+```
+```
 
 5. Juanita is a network administrator for a small accounting firm. The users on her network
-are complaining抱怨 of slow connectivity很慢的連線. When she examines the firewall logs日誌, she observes a
-large number of half-open connections半開放. 
+are complaining(抱怨) of slow connectivity(很慢的連線). When she examines the firewall logs(日誌), she observes a
+large number of half-open connections(半開放). 
 What best describes this attack?
 A. DDoS
 B. SYN flood
@@ -69,6 +79,12 @@ A. Encrypted web traffic
 B. Filtering user input
 C. A firewall
 D. An IDS
+```
+```
+
+```
+```
+
 
 7. You are responsible for network security at Acme Company. Users have been reporting
 that personal data is being stolen when using the wireless network. They all insist they
@@ -79,6 +95,11 @@ A. Session hijacking
 B. Clickjacking
 C. Rogue access point
 D. Bluejacking
+```
+```
+
+```
+```
 
 8. What type of attack depends on the attacker entering JavaScript into a text area that is
 intended for users to enter text that will be viewed by other users?
@@ -86,6 +107,11 @@ A. SQL injection
 B. Clickjacking
 C. Cross-site scripting
 D. Bluejacking
+```
+```
+
+```
+```
 
 9. A sales manager at your company is complaining about slow performance on his computer.
 When you thoroughly investigate the issue, you find spyware on his computer. He
@@ -95,67 +121,103 @@ A. Logic bomb
 B. Trojan horse
 C. Rootkit
 D. Macro virus
+```
+```
 
-10. Your company outsourced外包 development of an accounting application to a local programming
-firm. After three months of using the product, one of your accountants會計師 accidently
-discovers a way to log in登入 and bypass繞過 all security and authentication認證. 
+```
+```
+
+10. Your company outsourced(外包) development of an accounting application to a local programming
+firm. After three months of using the product, one of your accountants(會計師) accidently
+discovers a way to log in(登入) and bypass(繞過) all security and authentication(認證). 
 What best describes this?
 A. Logic bomb邏輯炸彈
-B. Trojan horse
+B. Trojan horse(特洛伊)木馬
 C. Backdoor後門程式
-D. Rootkit
+D. Rootkit 隱藏其他程式行程的軟體
 ```
 ```
 答案:C
 ```
 
 ```
-11. Teresa is the security manager for a mid-sized insurance company. She receives a call
+11. Teresa is the security manager(安全經理) for a mid-sized insurance company(中型保險公司). She receives a call
 from law enforcement, telling her that some computers on her network participated in a
 massive denial-of-service (DoS) attack. Teresa is certain that none of the employees at her
-company would be involved in a cybercrime網絡犯罪。. 
+company would be involved in a cybercrime(網絡犯罪)。. 
 What would best explain this scenario?
-A. It is a result of social engineering.
-B. The machines all have backdoors.
-C. The machines are bots.
-D. The machines are infected with crypto-viruses.
+A. It is a result of social engineering(社交工程).
+B. The machines all have backdoors(後門).
+C. The machines are bots(機器人).
+D. The machines are infected(被感染) with crypto-viruses(加密病毒).
 ```
+```
+massive denial-of-service (DoS) attack ==大規模拒絕服務（DoS）攻擊
+What would best explain this scenario?==什麼最能解釋這種情況？
+答案:
+```
+```
+12. Mike is a network administrator(網絡管理員) with a small financial services company(小型金融服務公司). He has received(收到)
+a popup window(彈出窗口) that states his files are now encrypted(加密) and he must pay .5 bitcoins to get(5個比特幣)
+them decrypted(解密). He tries to check the files in question, but their extensions(擴展) have changed(改變),
+and he cannot open them. 
+What best describes this situation?
+A. Mike’s machine has a rootkit(隱藏其他程式行程的軟體).
+B. Mike’s machine has ransomware(勒索軟件).
+C. Mike’s machine has a logic bomb(邏輯炸彈).
+D. Mike’s machine has been the target(目標) of whaling(捕鯨).
+```
+```
+files in question==有問題的文件
+What best describes this situation?==什麼最能描述這種情況？
+答案:
 ```
 
 ```
-```
-12. Mike is a network administrator with a small financial services company. He has received
-a popup window that states his files are now encrypted and he must pay .5 bitcoins to get
-them decrypted. He tries to check the files in question, but their extensions have changed,
-and he cannot open them. What best describes this situation?
-A. Mike’s machine has a rootkit.
-B. Mike’s machine has ransomware.
-C. Mike’s machine has a logic bomb.
-D. Mike’s machine has been the target of whaling.
-13. Terrance is examining logs for the company e-commerce web server. He discovers a number
-of redirects that cannot be explained. After carefully examining the website, he finds
-some attacker performed a watering hole attack by placing JavaScript in the website and is
-redirecting users to a phishing website. Which of the following techniques would be best
-at preventing this in the future?
-A. An SPI firewall
+13. Terrance is examining logs(檢查日誌) for the company e-commerce web server. He discovers(發現) a number(號碼)
+of redirects(重新導向) that cannot be explained(無法解釋). After carefully examining the website, he finds
+some attacker(攻擊者) performed(執行) a watering hole attack by placing JavaScript in the website and is
+redirecting users to a phishing website(網絡釣魚). 
+Which of the following techniques(技術) would be best at preventing(預防) this in the future?
+A. An SPI firewall(防火牆)
 B. An active IDS/IPS
-C. Checking buffer boundaries
-D. Checking user input
-14. What type of attack is based on sending more data to a target variable than the data can
-actually hold?
-A. Bluesnarfing
-B. Buffer overflow
-C. Bluejacking
-D. DDoS
-15. You have been asked to test your company network for security issues. The specific test
-you are conducting involves primarily using automated and semiautomated tools to look
-for known vulnerabilities with the various systems on your network. Which of the following
-best describes this type of test?
-A. Vulnerability scan
-B. Penetration test
-C. Security audit
-D. Security test
+C. Checking buffer boundaries(檢查緩衝區邊界)
+D. Checking user input(檢查用戶輸入)
+```
+```
+e-commerce web server==電子商務Web服務器
+watering hole attack==水坑攻擊
+答案:
+```
 
+```
+14. What type of attack(攻擊) is based on sending more data to a target variable(目標變量) than the data can
+actually hold(容納)?
+A. Bluesnarfing(藍牙侵吞)
+B. Buffer overflow(緩衝區溢出)
+C. Bluejacking(藍劫)
+D. DDoS
+```
+```
+答案:
+```
+
+```
+15. You have been asked to test(測試) your company network for security issues(安全問題). The specific test
+you are conducting involves(涉及) primarily(主要) using automated(自動化) and semiautomated(半自動化) tools(工具) to look
+for known vulnerabilities(漏洞) with the various systems(各種系統) on your network. 
+Which of the following best describes this type of test?
+A. Vulnerability scan(漏洞掃描)
+B. Penetration test(滲透測試)
+C. Security audit(安全審核)
+D. Security test(安全測試)
+```
+```
+Which of the following best describes this type of test?==以下哪項最能描述這種類型的測試？
+答案:
+```
+
+```
 16. Jared discovers that attackers have breached his WiFi network. They have gained access
 via the wireless access point (WAP) administrative panel, and have logged on with the
 credentials
