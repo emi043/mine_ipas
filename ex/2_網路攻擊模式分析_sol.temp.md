@@ -69,6 +69,7 @@ A. Encrypted web traffic
 B. Filtering user input
 C. A firewall
 D. An IDS
+
 7. You are responsible for network security at Acme Company. Users have been reporting
 that personal data is being stolen when using the wireless network. They all insist they
 only connect to the corporate wireless access point (WAP). However, logs for the WAP
@@ -78,12 +79,14 @@ A. Session hijacking
 B. Clickjacking
 C. Rogue access point
 D. Bluejacking
+
 8. What type of attack depends on the attacker entering JavaScript into a text area that is
 intended for users to enter text that will be viewed by other users?
 A. SQL injection
 B. Clickjacking
 C. Cross-site scripting
 D. Bluejacking
+
 9. A sales manager at your company is complaining about slow performance on his computer.
 When you thoroughly investigate the issue, you find spyware on his computer. He
 insists that the only thing he has downloaded recently was a freeware stock trading application.
@@ -92,23 +95,35 @@ A. Logic bomb
 B. Trojan horse
 C. Rootkit
 D. Macro virus
-10. Your company outsourced development of an accounting application to a local programming
-firm. After three months of using the product, one of your accountants accidently
-discovers a way to log in and bypass all security and authentication. What best describes
-this?
-A. Logic bomb
-B. Trojan horse
-C. Backdoor
-D. Rootkit
 
+10. Your company outsourced外包 development of an accounting application to a local programming
+firm. After three months of using the product, one of your accountants會計師 accidently
+discovers a way to log in登入 and bypass繞過 all security and authentication認證. 
+What best describes this?
+A. Logic bomb邏輯炸彈
+B. Trojan horse
+C. Backdoor後門程式
+D. Rootkit
+```
+```
+答案:C
+```
+
+```
 11. Teresa is the security manager for a mid-sized insurance company. She receives a call
 from law enforcement, telling her that some computers on her network participated in a
 massive denial-of-service (DoS) attack. Teresa is certain that none of the employees at her
-company would be involved in a cybercrime. What would best explain this scenario?
+company would be involved in a cybercrime網絡犯罪。. 
+What would best explain this scenario?
 A. It is a result of social engineering.
 B. The machines all have backdoors.
 C. The machines are bots.
 D. The machines are infected with crypto-viruses.
+```
+```
+
+```
+```
 12. Mike is a network administrator with a small financial services company. He has received
 a popup window that states his files are now encrypted and he must pay .5 bitcoins to get
 them decrypted. He tries to check the files in question, but their extensions have changed,
