@@ -16,8 +16,8 @@ the most likely cause==最有可能的原因
 
 ```
 2. Ahmed is a sales manager with a major insurance company. 
-He has received an email that is encouraging him to click on a link and fill out a survey. He is suspicious(懷疑) of the email, but it does mention a major insurance association,and that makes him think it might be legitimate(合法). 
-
+He has received an email that is encouraging him to click on a link and fill out a survey. 
+He is suspicious(懷疑) of the email, but it does mention a major insurance association,and that makes him think it might be legitimate(合法). 
 Which of the following best describes this attack?
 A. Phishing  網路釣魚
 B. Social engineering 社交工程
@@ -60,8 +60,8 @@ D. Rootkit 隱藏其他程式行程的軟體
 ```
 
 ```
-11. Teresa is the security manager(安全經理) for a mid-sized insurance company(中型保險公司). She receives a call
-from law enforcement, telling her that some computers on her network participated in a
+11. Teresa is the security manager(安全經理) for a mid-sized insurance company(中型保險公司). 
+She receives a callfrom law enforcement, telling her that some computers on her network participated in a
 massive denial-of-service (DoS) attack. Teresa is certain that none of the employees at her
 company would be involved in a cybercrime(網絡犯罪)。. 
 What would best explain this scenario?
@@ -158,6 +158,4 @@ D. Security test(安全測試)
 ```
 Which of the following best describes this type of test?==以下哪項最能描述這種類型的測試？
 答案:A
-```
-
 ```
